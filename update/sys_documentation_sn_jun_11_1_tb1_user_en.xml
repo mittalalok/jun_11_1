@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="user" label="User" language="en" table="sn_jun_11_1_tb1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>user</element>
+            <help/>
+            <hint/>
+            <label>User</label>
+            <language>en</language>
+            <name>sn_jun_11_1_tb1</name>
+            <plural>Users</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 12:44:18</sys_created_on>
+            <sys_id>0f6cef90734233001c233096fbf6a70c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>User</sys_name>
+            <sys_package display_value="jun_11_1" source="sn_jun_11_1">9da9af10734233001c233096fbf6a743</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="jun_11_1">9da9af10734233001c233096fbf6a743</sys_scope>
+            <sys_update_name>sys_documentation_sn_jun_11_1_tb1_user_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 12:44:18</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
